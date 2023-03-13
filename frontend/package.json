@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://iqr.onrender.com/",
+  "proxy": "https://iqr-server.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
